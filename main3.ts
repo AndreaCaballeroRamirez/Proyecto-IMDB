@@ -14,3 +14,4 @@ console.log(Imdb1.mostrarSoloTitulo())
 
 
 //Poque cuando ejecuto esto, me sale al final un undefined???
+
